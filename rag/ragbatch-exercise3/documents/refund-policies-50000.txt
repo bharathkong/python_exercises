@@ -1,0 +1,599 @@
+Record ID: RP-00001
+Refund Policy: Customers may request a refund for a product within 7 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00001.txt
+
+Record ID: RP-00002
+Refund Policy: Customers may request a refund for a subscription within 14 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00002.txt
+
+Record ID: RP-00003
+Refund Policy: Customers may request a refund for a travel booking within 21 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00003.txt
+
+Record ID: RP-00004
+Refund Policy: Customers may request a refund for a training course within 30 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00004.txt
+
+Record ID: RP-00005
+Refund Policy: Customers may request a refund for a digital service within 45 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00005.txt
+
+Record ID: RP-00006
+Refund Policy: Customers may request a refund for a membership within 60 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00006.txt
+
+Record ID: RP-00007
+Refund Policy: Customers may request a refund for a event ticket within 90 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00007.txt
+
+Record ID: RP-00008
+Refund Policy: Customers may request a refund for a software license within 7 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00008.txt
+
+Record ID: RP-00009
+Refund Policy: Customers may request a refund for a product within 14 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00009.txt
+
+Record ID: RP-00010
+Refund Policy: Customers may request a refund for a subscription within 21 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00010.txt
+
+Record ID: RP-00011
+Refund Policy: Customers may request a refund for a travel booking within 30 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00011.txt
+
+Record ID: RP-00012
+Refund Policy: Customers may request a refund for a training course within 45 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00012.txt
+
+Record ID: RP-00013
+Refund Policy: Customers may request a refund for a digital service within 60 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00013.txt
+
+Record ID: RP-00014
+Refund Policy: Customers may request a refund for a membership within 90 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00014.txt
+
+Record ID: RP-00015
+Refund Policy: Customers may request a refund for a event ticket within 7 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00015.txt
+
+Record ID: RP-00016
+Refund Policy: Customers may request a refund for a software license within 14 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00016.txt
+
+Record ID: RP-00017
+Refund Policy: Customers may request a refund for a product within 21 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00017.txt
+
+Record ID: RP-00018
+Refund Policy: Customers may request a refund for a subscription within 30 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00018.txt
+
+Record ID: RP-00019
+Refund Policy: Customers may request a refund for a travel booking within 45 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00019.txt
+
+Record ID: RP-00020
+Refund Policy: Customers may request a refund for a training course within 60 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00020.txt
+
+Record ID: RP-00021
+Refund Policy: Customers may request a refund for a digital service within 90 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00021.txt
+
+Record ID: RP-00022
+Refund Policy: Customers may request a refund for a membership within 7 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00022.txt
+
+Record ID: RP-00023
+Refund Policy: Customers may request a refund for a event ticket within 14 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00023.txt
+
+Record ID: RP-00024
+Refund Policy: Customers may request a refund for a software license within 21 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00024.txt
+
+Record ID: RP-00025
+Refund Policy: Customers may request a refund for a product within 30 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00025.txt
+
+Record ID: RP-00026
+Refund Policy: Customers may request a refund for a subscription within 45 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00026.txt
+
+Record ID: RP-00027
+Refund Policy: Customers may request a refund for a travel booking within 60 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00027.txt
+
+Record ID: RP-00028
+Refund Policy: Customers may request a refund for a training course within 90 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00028.txt
+
+Record ID: RP-00029
+Refund Policy: Customers may request a refund for a digital service within 7 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00029.txt
+
+Record ID: RP-00030
+Refund Policy: Customers may request a refund for a membership within 14 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00030.txt
+
+Record ID: RP-00031
+Refund Policy: Customers may request a refund for a event ticket within 21 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00031.txt
+
+Record ID: RP-00032
+Refund Policy: Customers may request a refund for a software license within 30 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00032.txt
+
+Record ID: RP-00033
+Refund Policy: Customers may request a refund for a product within 45 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00033.txt
+
+Record ID: RP-00034
+Refund Policy: Customers may request a refund for a subscription within 60 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00034.txt
+
+Record ID: RP-00035
+Refund Policy: Customers may request a refund for a travel booking within 90 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00035.txt
+
+Record ID: RP-00036
+Refund Policy: Customers may request a refund for a training course within 7 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00036.txt
+
+Record ID: RP-00037
+Refund Policy: Customers may request a refund for a digital service within 14 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00037.txt
+
+Record ID: RP-00038
+Refund Policy: Customers may request a refund for a membership within 21 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00038.txt
+
+Record ID: RP-00039
+Refund Policy: Customers may request a refund for a event ticket within 30 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00039.txt
+
+Record ID: RP-00040
+Refund Policy: Customers may request a refund for a software license within 45 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00040.txt
+
+Record ID: RP-00041
+Refund Policy: Customers may request a refund for a product within 60 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00041.txt
+
+Record ID: RP-00042
+Refund Policy: Customers may request a refund for a subscription within 90 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00042.txt
+
+Record ID: RP-00043
+Refund Policy: Customers may request a refund for a travel booking within 7 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00043.txt
+
+Record ID: RP-00044
+Refund Policy: Customers may request a refund for a training course within 14 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00044.txt
+
+Record ID: RP-00045
+Refund Policy: Customers may request a refund for a digital service within 21 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00045.txt
+
+Record ID: RP-00046
+Refund Policy: Customers may request a refund for a membership within 30 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00046.txt
+
+Record ID: RP-00047
+Refund Policy: Customers may request a refund for a event ticket within 45 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00047.txt
+
+Record ID: RP-00048
+Refund Policy: Customers may request a refund for a software license within 60 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00048.txt
+
+Record ID: RP-00049
+Refund Policy: Customers may request a refund for a product within 90 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00049.txt
+
+Record ID: RP-00050
+Refund Policy: Customers may request a refund for a subscription within 7 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00050.txt
+
+Record ID: RP-00051
+Refund Policy: Customers may request a refund for a travel booking within 14 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00051.txt
+
+Record ID: RP-00052
+Refund Policy: Customers may request a refund for a training course within 21 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00052.txt
+
+Record ID: RP-00053
+Refund Policy: Customers may request a refund for a digital service within 30 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00053.txt
+
+Record ID: RP-00054
+Refund Policy: Customers may request a refund for a membership within 45 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00054.txt
+
+Record ID: RP-00055
+Refund Policy: Customers may request a refund for a event ticket within 60 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00055.txt
+
+Record ID: RP-00056
+Refund Policy: Customers may request a refund for a software license within 90 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00056.txt
+
+Record ID: RP-00057
+Refund Policy: Customers may request a refund for a product within 7 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00057.txt
+
+Record ID: RP-00058
+Refund Policy: Customers may request a refund for a subscription within 14 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00058.txt
+
+Record ID: RP-00059
+Refund Policy: Customers may request a refund for a travel booking within 21 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00059.txt
+
+Record ID: RP-00060
+Refund Policy: Customers may request a refund for a training course within 30 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00060.txt
+
+Record ID: RP-00061
+Refund Policy: Customers may request a refund for a digital service within 45 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00061.txt
+
+Record ID: RP-00062
+Refund Policy: Customers may request a refund for a membership within 60 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00062.txt
+
+Record ID: RP-00063
+Refund Policy: Customers may request a refund for a event ticket within 90 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00063.txt
+
+Record ID: RP-00064
+Refund Policy: Customers may request a refund for a software license within 7 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00064.txt
+
+Record ID: RP-00065
+Refund Policy: Customers may request a refund for a product within 14 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00065.txt
+
+Record ID: RP-00066
+Refund Policy: Customers may request a refund for a subscription within 21 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00066.txt
+
+Record ID: RP-00067
+Refund Policy: Customers may request a refund for a travel booking within 30 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00067.txt
+
+Record ID: RP-00068
+Refund Policy: Customers may request a refund for a training course within 45 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00068.txt
+
+Record ID: RP-00069
+Refund Policy: Customers may request a refund for a digital service within 60 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00069.txt
+
+Record ID: RP-00070
+Refund Policy: Customers may request a refund for a membership within 90 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00070.txt
+
+Record ID: RP-00071
+Refund Policy: Customers may request a refund for a event ticket within 7 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00071.txt
+
+Record ID: RP-00072
+Refund Policy: Customers may request a refund for a software license within 14 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00072.txt
+
+Record ID: RP-00073
+Refund Policy: Customers may request a refund for a product within 21 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00073.txt
+
+Record ID: RP-00074
+Refund Policy: Customers may request a refund for a subscription within 30 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00074.txt
+
+Record ID: RP-00075
+Refund Policy: Customers may request a refund for a travel booking within 45 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00075.txt
+
+Record ID: RP-00076
+Refund Policy: Customers may request a refund for a training course within 60 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00076.txt
+
+Record ID: RP-00077
+Refund Policy: Customers may request a refund for a digital service within 90 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00077.txt
+
+Record ID: RP-00078
+Refund Policy: Customers may request a refund for a membership within 7 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00078.txt
+
+Record ID: RP-00079
+Refund Policy: Customers may request a refund for a event ticket within 14 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00079.txt
+
+Record ID: RP-00080
+Refund Policy: Customers may request a refund for a software license within 21 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00080.txt
+
+Record ID: RP-00081
+Refund Policy: Customers may request a refund for a product within 30 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00081.txt
+
+Record ID: RP-00082
+Refund Policy: Customers may request a refund for a subscription within 45 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00082.txt
+
+Record ID: RP-00083
+Refund Policy: Customers may request a refund for a travel booking within 60 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00083.txt
+
+Record ID: RP-00084
+Refund Policy: Customers may request a refund for a training course within 90 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00084.txt
+
+Record ID: RP-00085
+Refund Policy: Customers may request a refund for a digital service within 7 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00085.txt
+
+Record ID: RP-00086
+Refund Policy: Customers may request a refund for a membership within 14 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00086.txt
+
+Record ID: RP-00087
+Refund Policy: Customers may request a refund for a event ticket within 21 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00087.txt
+
+Record ID: RP-00088
+Refund Policy: Customers may request a refund for a software license within 30 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00088.txt
+
+Record ID: RP-00089
+Refund Policy: Customers may request a refund for a product within 45 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00089.txt
+
+Record ID: RP-00090
+Refund Policy: Customers may request a refund for a subscription within 60 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00090.txt
+
+Record ID: RP-00091
+Refund Policy: Customers may request a refund for a travel booking within 90 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00091.txt
+
+Record ID: RP-00092
+Refund Policy: Customers may request a refund for a training course within 7 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00092.txt
+
+Record ID: RP-00093
+Refund Policy: Customers may request a refund for a digital service within 14 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00093.txt
+
+Record ID: RP-00094
+Refund Policy: Customers may request a refund for a membership within 21 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00094.txt
+
+Record ID: RP-00095
+Refund Policy: Customers may request a refund for a event ticket within 30 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00095.txt
+
+Record ID: RP-00096
+Refund Policy: Customers may request a refund for a software license within 45 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00096.txt
+
+Record ID: RP-00097
+Refund Policy: Customers may request a refund for a product within 60 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00097.txt
+
+Record ID: RP-00098
+Refund Policy: Customers may request a refund for a subscription within 90 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00098.txt
+
+Record ID: RP-00099
+Refund Policy: Customers may request a refund for a travel booking within 7 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00099.txt
+
+Record ID: RP-00100
+Refund Policy: Customers may request a refund for a training course within 14 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00100.txt
+
+Record ID: RP-00101
+Refund Policy: Customers may request a refund for a digital service within 21 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00101.txt
+
+Record ID: RP-00102
+Refund Policy: Customers may request a refund for a membership within 30 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00102.txt
+
+Record ID: RP-00103
+Refund Policy: Customers may request a refund for a event ticket within 45 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00103.txt
+
+Record ID: RP-00104
+Refund Policy: Customers may request a refund for a software license within 60 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00104.txt
+
+Record ID: RP-00105
+Refund Policy: Customers may request a refund for a product within 90 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00105.txt
+
+Record ID: RP-00106
+Refund Policy: Customers may request a refund for a subscription within 7 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00106.txt
+
+Record ID: RP-00107
+Refund Policy: Customers may request a refund for a travel booking within 14 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00107.txt
+
+Record ID: RP-00108
+Refund Policy: Customers may request a refund for a training course within 21 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00108.txt
+
+Record ID: RP-00109
+Refund Policy: Customers may request a refund for a digital service within 30 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00109.txt
+
+Record ID: RP-00110
+Refund Policy: Customers may request a refund for a membership within 45 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00110.txt
+
+Record ID: RP-00111
+Refund Policy: Customers may request a refund for a event ticket within 60 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00111.txt
+
+Record ID: RP-00112
+Refund Policy: Customers may request a refund for a software license within 90 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00112.txt
+
+Record ID: RP-00113
+Refund Policy: Customers may request a refund for a product within 7 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00113.txt
+
+Record ID: RP-00114
+Refund Policy: Customers may request a refund for a subscription within 14 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00114.txt
+
+Record ID: RP-00115
+Refund Policy: Customers may request a refund for a travel booking within 21 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00115.txt
+
+Record ID: RP-00116
+Refund Policy: Customers may request a refund for a training course within 30 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00116.txt
+
+Record ID: RP-00117
+Refund Policy: Customers may request a refund for a digital service within 45 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00117.txt
+
+Record ID: RP-00118
+Refund Policy: Customers may request a refund for a membership within 60 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00118.txt
+
+Record ID: RP-00119
+Refund Policy: Customers may request a refund for a event ticket within 90 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00119.txt
+
+Record ID: RP-00120
+Refund Policy: Customers may request a refund for a software license within 7 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00120.txt
+
+Record ID: RP-00121
+Refund Policy: Customers may request a refund for a product within 14 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00121.txt
+
+Record ID: RP-00122
+Refund Policy: Customers may request a refund for a subscription within 21 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00122.txt
+
+Record ID: RP-00123
+Refund Policy: Customers may request a refund for a travel booking within 30 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00123.txt
+
+Record ID: RP-00124
+Refund Policy: Customers may request a refund for a training course within 45 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00124.txt
+
+Record ID: RP-00125
+Refund Policy: Customers may request a refund for a digital service within 60 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00125.txt
+
+Record ID: RP-00126
+Refund Policy: Customers may request a refund for a membership within 90 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00126.txt
+
+Record ID: RP-00127
+Refund Policy: Customers may request a refund for a event ticket within 7 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00127.txt
+
+Record ID: RP-00128
+Refund Policy: Customers may request a refund for a software license within 14 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00128.txt
+
+Record ID: RP-00129
+Refund Policy: Customers may request a refund for a product within 21 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00129.txt
+
+Record ID: RP-00130
+Refund Policy: Customers may request a refund for a subscription within 30 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00130.txt
+
+Record ID: RP-00131
+Refund Policy: Customers may request a refund for a travel booking within 45 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00131.txt
+
+Record ID: RP-00132
+Refund Policy: Customers may request a refund for a training course within 60 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00132.txt
+
+Record ID: RP-00133
+Refund Policy: Customers may request a refund for a digital service within 90 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00133.txt
+
+Record ID: RP-00134
+Refund Policy: Customers may request a refund for a membership within 7 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00134.txt
+
+Record ID: RP-00135
+Refund Policy: Customers may request a refund for a event ticket within 14 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00135.txt
+
+Record ID: RP-00136
+Refund Policy: Customers may request a refund for a software license within 21 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00136.txt
+
+Record ID: RP-00137
+Refund Policy: Customers may request a refund for a product within 30 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00137.txt
+
+Record ID: RP-00138
+Refund Policy: Customers may request a refund for a subscription within 45 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00138.txt
+
+Record ID: RP-00139
+Refund Policy: Customers may request a refund for a travel booking within 60 days of purchase when proof of purchase is provided. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00139.txt
+
+Record ID: RP-00140
+Refund Policy: Customers may request a refund for a training course within 90 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00140.txt
+
+Record ID: RP-00141
+Refund Policy: Customers may request a refund for a digital service within 7 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the original payment method.
+Source: refund-policy-00141.txt
+
+Record ID: RP-00142
+Refund Policy: Customers may request a refund for a membership within 14 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00142.txt
+
+Record ID: RP-00143
+Refund Policy: Customers may request a refund for a event ticket within 21 days of purchase when the service has not been fully consumed. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00143.txt
+
+Record ID: RP-00144
+Refund Policy: Customers may request a refund for a software license within 30 days of purchase when the request is approved by customer support. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00144.txt
+
+Record ID: RP-00145
+Refund Policy: Customers may request a refund for a product within 45 days of purchase when proof of purchase is provided. Approved refunds are returned to the original payment method.
+Source: refund-policy-00145.txt
+
+Record ID: RP-00146
+Refund Policy: Customers may request a refund for a subscription within 60 days of purchase when the request includes the original transaction reference. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00146.txt
+
+Record ID: RP-00147
+Refund Policy: Customers may request a refund for a travel booking within 90 days of purchase when the item is returned in acceptable condition. Approved refunds are returned to the customer wallet.
+Source: refund-policy-00147.txt
+
+Record ID: RP-00148
+Refund Policy: Customers may request a refund for a training course within 7 days of purchase when the cancellation is submitted through the customer portal. Approved refunds are returned to the payment card used for purchase.
+Source: refund-policy-00148.txt
+
+Record ID: RP-00149
+Refund Policy: Customers may request a refund for a digital service within 14 days of purchase when the service has not been fully consumed. Approved refunds are returned to the original payment method.
+Source: refund-policy-00149.txt
+
+Record ID: RP-00150
+Refund Policy: Customers may request a refund for a membership within 21 days of purchase when the request is approved by customer support. Approved refunds are returned to the bank account used for payment.
+Source: refund-policy-00150.txt

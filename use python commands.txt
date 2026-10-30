@@ -1,0 +1,20 @@
+python -m env env 
+python --version
+pip list
+pip install ollama
+pip show ollama
+pip install requests
+pip install langgraph
+
+py --list ( list all versions of python installed) 
+py -3.11 -m env env  ( use specific version of python) 
+
+
+--------------
+for any new project
+1. go to that folder
+2 python -m env env
+3. go to env/Scripts folder
+4. execute activate.bat file 
+
+now your python environment is ready
